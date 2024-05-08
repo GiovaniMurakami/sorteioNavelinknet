@@ -26,7 +26,8 @@ body {
 }
 
 .main{
-    width: 40vh;
+    width: 32vh;
+    min-width: 25vh;
     padding: 5vh;
     margin: 2vh;
     margin-bottom: 5vh;
