@@ -26,7 +26,7 @@ body {
 }
 
 .main{
-    min-width: 35vh;
+    width: 40vh;
     padding: 5vh;
     margin: 2vh;
     margin-bottom: 5vh;
@@ -40,7 +40,7 @@ body {
 
 .intro {
     font-weight: bold;
-    font-size: 3vh;
+    font-size: 2.8vh;
 }
 
 .btn {

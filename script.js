@@ -13,6 +13,7 @@ button.addEventListener("click", () => {
     })
         .then((response) => {
             response.json();
+            confetti();
             console.log(response);
         })
         .then((data) => {
